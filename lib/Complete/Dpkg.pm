@@ -17,8 +17,13 @@ our @EXPORT_OK = qw(
 
 our %SPEC;
 
+$SPEC{':package'} = {
+    v => 1.1,
+    summary => 'Completion routines related to Debian packages',
+};
+
 1;
-# ABSTRACT: Completion routines related to Debian packages
+# ABSTRACT:
 
 =for Pod::Coverage .+
 
