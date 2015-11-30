@@ -1,5 +1,13 @@
 Revision history for Complete-Dpkg
 
+0.02    2015-11-30 (PERLANCAR)
+
+	- No functional changes.
+
+	- Bump prereq version Complete::Common to 0.21 (previously it was
+	  only set to 0.18) [CT].
+
+
 0.01    2015-11-29 (PERLANCAR)
 
         - No functional changes.
