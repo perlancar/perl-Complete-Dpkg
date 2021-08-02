@@ -2,3 +2,4 @@ Complete-Dpkg-*
 .build
 *~
 nytprof*
+.DS_Store
